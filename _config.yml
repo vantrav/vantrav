@@ -4,7 +4,7 @@ social_link: ''
 social_username: ''
 github_repo: vartrav
 github_username: vartrav
-theme_color: blue
+theme_color: light
 remote_theme: internet-de-france/athena
 baseurl: /vantrav
 defaults:
